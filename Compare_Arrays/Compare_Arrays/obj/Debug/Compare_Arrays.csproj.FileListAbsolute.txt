@@ -1,0 +1,6 @@
+c:\users\bogdan\documents\visual studio 2017\Projects\Compare_Arrays\Compare_Arrays\bin\Debug\Compare_Arrays.exe.config
+c:\users\bogdan\documents\visual studio 2017\Projects\Compare_Arrays\Compare_Arrays\bin\Debug\Compare_Arrays.exe
+c:\users\bogdan\documents\visual studio 2017\Projects\Compare_Arrays\Compare_Arrays\bin\Debug\Compare_Arrays.pdb
+c:\users\bogdan\documents\visual studio 2017\Projects\Compare_Arrays\Compare_Arrays\obj\Debug\Compare_Arrays.csprojResolveAssemblyReference.cache
+c:\users\bogdan\documents\visual studio 2017\Projects\Compare_Arrays\Compare_Arrays\obj\Debug\Compare_Arrays.exe
+c:\users\bogdan\documents\visual studio 2017\Projects\Compare_Arrays\Compare_Arrays\obj\Debug\Compare_Arrays.pdb
