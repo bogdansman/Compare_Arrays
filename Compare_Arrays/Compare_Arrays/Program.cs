@@ -45,11 +45,6 @@ namespace Compare_Arrays
                 Console.WriteLine("Aceste sunt diferentele:\n" + item.ToString());
             }
 
-            //if (fileCompare != fileToCompare)
-            //{
-            //    Console.WriteLine("Continutul din primul fisier, este diferit");
-            //}
-
             Console.ReadLine();
 
             Console.WriteLine();
